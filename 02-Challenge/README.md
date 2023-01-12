@@ -8,6 +8,12 @@ Your task is to build the back end for an e-commerce site by modifying starter c
 
 Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. You’ll need to submit a link to the video and add it to the readme of your project.
 
+
+## How to Run it
+node seeds/index.js
+nodemon server.js
+
+
 ## User Story
 
 ```md
